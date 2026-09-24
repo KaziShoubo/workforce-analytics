@@ -1,0 +1,21 @@
+employee_id,age,department,job_role,experience_years,salary,performance_score,satisfaction_score,remote_work,absence_days,left_company
+E001,24,IT,Junior Developer,1,42000,72,7,Yes,4,No
+E002,29,Finance,Financial Analyst,4,51000,81,8,No,3,No
+E003,35,HR,HR Specialist,8,58000,76,6,Yes,8,No
+E004,42,IT,Senior Developer,15,82000,91,9,Yes,2,No
+E005,27,Marketing,Marketing Specialist,3,47000,68,6,Yes,10,Yes
+E006,31,IT,Data Analyst,6,62000,87,8,Yes,3,No
+E007,45,Finance,Finance Manager,18,95000,93,9,No,1,No
+E008,26,HR,HR Assistant,2,39000,64,5,No,12,Yes
+E009,38,Marketing,Marketing Manager,12,78000,89,8,Yes,4,No
+E010,30,IT,Software Engineer,5,59000,79,7,Yes,6,No
+E011,41,Finance,Senior Analyst,14,76000,88,8,No,3,No
+E012,23,Marketing,Marketing Assistant,1,36000,61,5,Yes,14,Yes
+E013,34,IT,DevOps Engineer,9,70000,90,9,Yes,2,No
+E014,37,HR,HR Manager,11,74000,85,7,No,5,No
+E015,28,Finance,Accountant,4,48000,74,7,No,7,No
+E016,32,IT,Data Engineer,7,68000,86,8,Yes,3,No
+E017,44,Marketing,Senior Specialist,16,72000,82,7,Yes,6,No
+E018,25,HR,Recruiter,2,41000,69,6,Yes,9,Yes
+E019,39,IT,IT Manager,13,88000,94,9,Yes,1,No
+E020,33,Finance,Financial Analyst,7,60000,80,8,No,4,No
