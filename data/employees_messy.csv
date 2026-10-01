@@ -1,0 +1,32 @@
+employee_id,age,department,job_role,experience_years,salary,performance_score,satisfaction_score,remote_work,absence_days,left_company
+E001,24,IT,Junior Developer,1,"€42,000",72,7,Yes,4,No
+E002,29,Finance ,Financial Analyst,4,51000,81,8,No,3,No
+E003,35,hr,HR Specialist,8,,76,6,yes,8,No
+E004,42,IT,Senior Developer,15,82000,91,9,YES,2,No
+E005,27,Marketing,Marketing Specialist,3,"47,000",68,6,Yes,10,Yes
+E006,31,Information Technology,Data Analyst,6,62000,87,8,Yes,3,No
+E007,45,Finance,Finance Manager,18,95000,93,9,No,1,No
+E008,26,HR,HR Assistant,2,39000,64,5,No,12,Yes
+E008,26,HR,HR Assistant,2,39000,64,5,No,12,Yes
+E009,38,Marketing,marketing manager,12,78000,89,8,Yes,4,No
+E010,30,IT,Software Engineer,5,59000,79,7,yes,6,No
+E011,41,,Senior Analyst,14,76000,88,8,No,3,No
+E012,23,Marketing,Marketing Assistant,1,36000,61,5,Yes,14,YES
+E013,34,IT ,DevOps Engineer,9,70000,90,9,Yes,2,No
+E014,37,HR,HR Manager,11,74000,85,,No,5,No
+E015,28,Finance,Accountant,4,48000,74,7,No,7,No
+E016,32,it,Data Engineer,7,68000,86,8,Yes,3,No
+E017,44,Marketing,Senior Specialist,16,72000,82,7,Yes,6,No
+E018,25,HR,Recruiter,2,41000,69,6,Yes,9,Yes
+E019,39,IT,IT Manager,13,88000,94,9,Yes,1,No
+E020,33,Finance,Financial Analyst,7,60000,80,8,No,4,No
+E021,17,Marketing,Marketing Intern,0,25000,55,4,No,3,No
+E022,72,Finance,Senior Analyst,30,105000,96,10,No,0,No
+E023,30,Sales,Sales Representative,5,52000,78,7,Yes,5,No
+E024,31,sales ,Sales Representative,6,54000,80,8,YES,4,No
+E025,29,IT,Software Engineer ,4,61000,83,7,yes,6,No
+E026,36,HR,HR Specialist,9,59000,77,6,No,8,Yes
+E027,27,Marketing,Marketing Specialist,3,47k,70,6,Yes,11,Yes
+E028,33,Finance,Accountant,6,invalid,79,7,No,4,No
+E029,40,Information Technology,Data Engineer,12,81000,92,9,Yes,2,No
+E030,26,HR,Recruiter,2,40000,67,5,yes,10,yes

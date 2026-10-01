@@ -15,7 +15,7 @@ data_path = Path(__file__).resolve().parent.parent / 'data'/ "employees.csv"
 df = pd.read_csv(data_path)
 
 # number of rows and columns (row,column)
-print("dataset shape: ")
+print("\ndataset shape: ")
 print(df.shape)
 
 # first 5 employees
@@ -174,3 +174,34 @@ total_employees_count = df.shape[0]
 
 percentage_of_left_employee = (left_company_count / total_employees_count)* 100
 print(f"{percentage_of_left_employee}%")
+
+# Number of employees who left by department
+print("\nNumber of employees who left by department: ")
+employee_left = df[df["left_company"] == "Yes"]
+turnover_by_department = employee_left["department"].value_counts()
+print(turnover_by_department)
+
+# What is the turnover rate for each department?
+print("\nthe turnover rate for each department: ")
+total_employees_in_department = df.groupby("department").size()
+# print(total_employees_in_department)
+department_turnover_rate = (turnover_by_department/total_employees_in_department) * 100
+department_turnover_rate.sort_values(ascending=False)
+print(f"{department_turnover_rate}%")
+
+# Calculate the average satisfaction score for each department and sort it from lowest to highest.
+print("\nThe average satisfaction score for each department: ")
+satisfaction_score_in_department = df.groupby("department")["satisfaction_score"].mean()
+satisfaction_score_in_department = satisfaction_score_in_department.sort_values(ascending=True)
+print(satisfaction_score_in_department)
+
+#----------Data Cleaning---------------
+
+# Finding missing value
+print("\nMissing value in each column: ")
+print(df.isnull().sum())
+
+# Check duplicates
+print("\nNumber of duplicate rows:")
+print(df.duplicated().sum())
+

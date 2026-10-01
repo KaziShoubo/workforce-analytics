@@ -1,0 +1,31 @@
+employee_id,age,department,job_role,experience_years,salary,performance_score,satisfaction_score,remote_work,absence_days,left_company
+E001,24,IT,Junior Developer,1,42000.0,72,7.0,YES,4,NO
+E002,29,FINANCE,Financial Analyst,4,51000.0,81,8.0,NO,3,NO
+E003,35,HR,HR Specialist,8,40500.0,76,6.0,YES,8,NO
+E004,42,IT,Senior Developer,15,82000.0,91,9.0,YES,2,NO
+E005,27,MARKETING,Marketing Specialist,3,47000.0,68,6.0,YES,10,YES
+E006,31,IT,Data Analyst,6,62000.0,87,8.0,YES,3,NO
+E007,45,FINANCE,Finance Manager,18,95000.0,93,9.0,NO,1,NO
+E008,26,HR,HR Assistant,2,39000.0,64,5.0,NO,12,YES
+E009,38,MARKETING,Marketing Manager,12,78000.0,89,8.0,YES,4,NO
+E010,30,IT,Software Engineer,5,59000.0,79,7.0,YES,6,NO
+E011,41,,Senior Analyst,14,76000.0,88,8.0,NO,3,NO
+E012,23,MARKETING,Marketing Assistant,1,36000.0,61,5.0,YES,14,YES
+E013,34,IT,DevOps Engineer,9,70000.0,90,9.0,YES,2,NO
+E014,37,HR,HR Manager,11,74000.0,85,6.0,NO,5,NO
+E015,28,FINANCE,Accountant,4,48000.0,74,7.0,NO,7,NO
+E016,32,IT,Data Engineer,7,68000.0,86,8.0,YES,3,NO
+E017,44,MARKETING,Senior Specialist,16,72000.0,82,7.0,YES,6,NO
+E018,25,HR,Recruiter,2,41000.0,69,6.0,YES,9,YES
+E019,39,IT,IT Manager,13,88000.0,94,9.0,YES,1,NO
+E020,33,FINANCE,Financial Analyst,7,60000.0,80,8.0,NO,4,NO
+E021,17,MARKETING,Marketing Intern,0,25000.0,55,4.0,NO,3,NO
+E022,72,FINANCE,Senior Analyst,30,105000.0,96,10.0,NO,0,NO
+E023,30,SALES,Sales Representative,5,52000.0,78,7.0,YES,5,NO
+E024,31,SALES,Sales Representative,6,54000.0,80,8.0,YES,4,NO
+E025,29,IT,Software Engineer,4,61000.0,83,7.0,YES,6,NO
+E026,36,HR,HR Specialist,9,59000.0,77,6.0,NO,8,YES
+E027,27,MARKETING,Marketing Specialist,3,47000.0,70,6.0,YES,11,YES
+E028,33,FINANCE,Accountant,6,60000.0,79,7.0,NO,4,NO
+E029,40,IT,Data Engineer,12,81000.0,92,9.0,YES,2,NO
+E030,26,HR,Recruiter,2,40000.0,67,5.0,YES,10,YES
